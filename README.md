@@ -27,7 +27,7 @@ Necessary Python libraries (e.g., NumPy, SciPy) for tensor operations and linear
 To run the simulations,
 
  ```
-python3 NNR-TNR_one_impurity.py 12
+python3 NNR-TNR_one_impurity.py
  ```
 
 
