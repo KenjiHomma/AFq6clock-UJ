@@ -24,7 +24,12 @@ Python 3.x
 Necessary Python libraries (e.g., NumPy, SciPy) for tensor operations and linear algebra.
 
 ## Usage
-To run the simulations, execute the provided Python scripts. They are structured to allow flexible configuration for various lattice and clock model parameters.
+To run the simulations,
+
+ ```
+python3 NNR-TNR_one_impurity.py 12
+ ```
+
 
 ## Citation
 If you use this code in your research, please cite the original paper:
