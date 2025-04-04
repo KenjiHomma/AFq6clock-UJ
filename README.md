@@ -33,4 +33,4 @@ python3 NNR-TNR_one_impurity.py
 
 ## Citation
 If you use this code in your research, please cite the original paper:
-Kenji Homma, "Tensor network renormalization approach to antiferromagnetic 6-state clock model on the Union Jack lattice", arXiv:2403.17309.
+Kenji Homma, Satoshi Morita, Naoki Kawashima, "Tensor network renormalization approach to antiferromagnetic 6-state clock model on the Union Jack lattice", arXiv:2403.17309.
