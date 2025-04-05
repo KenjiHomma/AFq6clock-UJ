@@ -1,4 +1,4 @@
-# Tensor Network Renormalization for Antiferromagnetic 6-State Clock Model
+# Tensor network renormalization approach to antiferromagnetic 6-state clock model on the Union Jack lattice
 
 This repository contains sample code for the research paper arXiv:2403.17309, titled "Tensor network renormalization approach to antiferromagnetic 6-state clock model on the Union Jack lattice".
 
